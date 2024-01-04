@@ -1,0 +1,425 @@
+{ 
+    "artist" : 
+    [
+        {
+            "id" : "1",
+            "artist" :"Raden Saleh",
+            "image" : "1.raden-saleh.jpg",
+            "description" : [
+                "Raden Saleh lahir di Terbaya dekat Semarang. Tanggal lahirnya meskipun masih belum jelas, dari salah satu sumber menengarai di Bulan Mei 1811. Perkenalan Raden Saleh dengan seni lukis diawali ketika dia dipersiapkan sang paman untuk dididik menjadi pegawai Belanda di Cianjur. Dia ditempatkan di rumah Residen Cianjur, R. Baron der Capellen. Dia berkenalan dengan AAJ Payen, seorang Belgia yang ditugaskan pemerintah kolonial untuk melukis alam dan pemandangan. Payen adalah guru pertama Raden Saleh dalam melukis. Melalui Payen dan Capellen, Raden Saleh berangkat ke Negeri Belanda untuk belajar melukis dan menjadi pelukis. Selama lebih dari 20 tahun di Eropa, Raden Saleh belajar dari berbagai \"guru\" pelukis dan menyerap berbagai aliran seni lukis serta bersosialisasi di beberapa kota di Eropa (Den Haag, Dresden, Paris, dll).",
+                "Raden Saleh merupakan sosok yang telah menjadi legenda dalam sejarah seni rupa modern Indonesia. Dia “terlanjur” dianggap sebagai pioneer seni rupa modern Indonesia dan keberadaannya merepresentasikan banyak hal. Mulai dari kisah keteknikan seni lukis hingga tema nasionalisme. Karya, kisah dan momen keberadaan Raden Saleh sampai saat ini memang tidak ada duanya. Banyak sekali ulasan dilahirkan, di samping banyak karya lukisan dia yang menakjubkan. Peter Carey seorang peneliti yang mengaguminya telah terinspirasi karya Raden Saleh mengenai \"Penangkapan Pangeran Diponegaro\" hingga telah menulis ratusan halaman tentang penangkapan tersebut. Nama Raden Saleh juga diabadikan menjadi nama jalan di daerah bekas rumahnya di Jakarta. Raden Saleh menjadi ikon yang menarik hingga 200 tahun kemudian (2012) dibuat pameran karya-karya Raden Saleh.",
+                "Sekembalinya dari Eropa, sekitar tahun 1851, Raden Saleh terus melukis dan melahirkan karya-karya lukis yang berupa potret, pemandangan dan adegan-adegan peristiwa. Raden Saleh juga telah melahirkan banyak kisah mengenai tempat-tempat (misalnya keberadaan rumahnya), kisah mengenai rumah tangganya dan banyak kisah perjalanan yang dilakukannya. Kisah-kisahnya membawa pengaruh hingga sekarang. Raden Saleh meninggal Bulan April tahun 1880 di Kota Bogor."
+            ],
+            "artworks_id" : [
+                "1", "2"
+            ],
+            "infoSource" : "http://archive.ivaa-online.org/pelakuseni/raden-saleh",
+            "imgSource"  : "https://en.wikipedia.org/wiki/Raden_Saleh"
+        },
+
+        {
+            "id" : "2",
+            "artist" :"Affandi",
+            "image" : "2.affandi.jpg",
+            "description" : [
+                "Affandi dilahirkan Mei 1907 di Cirebon, Jawa Barat. Setelah kemerdekaan, Affandi pindah ke Yogyakarta dan mendirikan Seniman Masjarakat yang akhirnya bergabung dengan Seniman Indonesia Muda (SIM). Tahun 1947, Affandi bersama Hendra Gunawan mendirikan Pelukis Rakjat (PR). Tahun berikutnya, dia pindah ke Jakarta dan mendirikan Gabungan Pelukis Indonesia (GPI). Mulai tahun 1949 hingga tahun 1951 Affandi pergi dan belajar di Santiniketan, India, atas dukungan Pemerintah India. Kemudian dia memamerkan karya-karya melalui pameran tunggal di beberapa kota di Eropa. Affandi sempat pula berpartisipasi mewakili Indonesia dalam Biennale di Sao Paulo, Brazil (1953) dan Venesia, Italia (1964). Pada tahun 1967, dia mengikuti program seniman residensi dengan mengerjakan mural teknik fresco untuk East-West Center, Honolulu, Hawaii.",
+                "Sejak 1950-an, Affandi mulai mengerjakan teknik melukis plotot, yakni menorehkan cat langsung dari tube-nya. Awalnya, teknik ini dikerjakan Affandi secara tidak sengaja, ketika dia ingin melukis dan kehilangan kesabaran karena tidak dapat menemukan di mana pensilnya. Karena peristiwa itu, dia menemukan kenyamanan dan kebebasan baru dalam melukis dan menghasilkan karya-karya yang lebih hidup.",
+                "Setelah memasuki usia lanjut, Affandi dengan The Affandi Foundation mengelola kompleks yang terdiri dari rumah pribadi, ruang berkumpul, dan museum yang menyimpan sekitar 250 lukisannya. Setelah meninggal pada 23 Mei 1990, atas permintaannya, Affandi dimakamkan dalam kompleks ini. Selain museum dan ruang berkumpul, kompleks ini dilengkapi dengan ruang pamer yang bisa disewa umum. Pada tahun 2007, keluarga Affandi dengan segenap masyarakat seni Yogyakarta dan sekitarnya mengadakan peringatan 100 tahun Affandi (Affandi Centennial).",
+                "1949 Affandi mendapat grant dari pemerintah India dan tinggal selama 2 tahun di India. Di sana, Affandi melakukan aktivitas melukisnya dan juga mengadakan pameran di kota-kota besar hingga tahun 1951 di India. Selanjutnya, Affandi mengadakan pameran keliling di negara-negara Eropa, diantaranya London, Amsterdam, Brussel, Paris dan Roma.",
+                "Affandi juga ditunjuk oleh pemerintah Indonesia untuk mewakili Indonesia dalam pameran Internasional (Biennale Exhibition) tiga kali berturut-turut, yaitu di Brasil (1952), di Venice (Italia - 1954), dan di Sao Paulo (1956). Di Venice, Italia, Affandi berhasil memenangkan hadiah."
+            ],
+            "artworks_id" : [
+                "3", "5", "6", "8", "9", "10"
+            ],
+            "infoSource" : "http://archive.ivaa-online.org/pelakuseni/affandi",
+            "imgSource" : "http://archive.ivaa-online.org/pelakuseni/affandi"
+        },
+
+        {
+            "id" : "3",
+            "artist" :"Hendra Gunawan",
+            "image" : "3.hendra-gunawan.jpg",
+            "description" : [
+                "Hendra Gunawan lahir di Bandung, Jawa Barat, 11 Juni 1918. Dia belajar melukis dari Wahdi Sumanta (1917-1996) dan Affandi (1907-1990). Tahun 1935, Hendra bersama Sudarso (1914-2006) dan Barli Sasmitawinata (lahir 1921), bergabung dengan kedua gurunya membentuk 'Kelompok Lima' di Bandung. Hendra juga mendukung grup teater 'Poesaka Soenda' di Bandung, terutama sebagai pelukis dekor pada tahun 1940. Setelah kemerdekaan, Hendra terlibat dalam berdirinya organisasi 'Pelukis Rakyat' di Yogyakarta pada tahun 1947.",
+                "Hendra Gunawan dipenjara oleh Orde Baru tanpa masa percobaan, setelah peristiwa tragedi kemanusiaan 1965. Sebelumnya, sejak 1957 Hendra telah menjadi aktivis Lembaga Kebudayaan Rakyat (Lekra). Hendra dibebaskan dari tahanan pada tahun 1978 dan memutuskan untuk tinggal di Bali. Di sana Hendra mengadakan pameran tunggal (1981), di Taman Budaya Denpasar. Kehidupan kesenian Hendra didokumentasikan dalam buku 'Hendra Gunawan: A Great Modern Indonesian Painter' (2001). Lukisan Hendra dikenal karena penggambarannya yang kuat tentang kehidupan sehari-hari rakyat Indonesia. Hendra wafat di Denpasar pada tahun 1983."
+            ],
+            "artworks_id" : [
+                "7"
+            ],
+            "infoSource" : "http://archive.ivaa-online.org/pelakuseni/hendra-gunawan",
+            "imgSource"  : "http://buku-otobiografi.blogspot.com/2016/12/lukisan-dan-biografi-hendra-gunawan.html"
+
+        },
+
+        {
+            "id" : "4",
+            "artist" :"Lee Man Fong",
+            "image" : "4.lee-man-fong.jpg",
+            "description" : [
+                "Lee Man Fong lahir pada tanggal 14 November 1913 di Guangdong, Cina. Dia pindah ke Singapura pada tahun 1917. Pada 1932 dia bermigrasi ke Jawa dan bekerja untuk Kolff, sebuah perusahaan percetakan dan penerbitan Belanda. Dia juga mendirikan semacam biro jasa iklan di Jakarta. Pada tahun 1936 kepala Hindia Belanda di Batavia mengundang Asosiasinya untuk berpartisipasi dalam sebuah pameran. Ia merupakan artis non-Belanda pertama yang diberikan undangan ini.",
+                "Setelah 1940 Lee Man Fong menghabiskan konsentrasinya penuh waktu untuk melukis. Dia berkunjung ke Bali, bekerja sebentar di sana. Di Bali, karya-karyanya banyak dipengaruhi oleh karya Willem Hofker. Dia kemudian mengadakan pameran tunggal di Jakarta pada tahun 1941. Pada tahun 1942, Lee Man Fong dipenjara karena penentangannya terhadap kolonialisme Jepang di Indonesia. Setelah enam bulan di penjara, Takahashi Masao, seorang perwira Jepang, membantunya keluar dari penjara dan tertarik pada potensi artistiknya.",
+                "Pada tahun 1949 Lee Man Fong mendapat beasiswa dari pemerintah Belanda untuk belajar seni di Belanda. Dia ada di sana selama tiga tahun, dan berpartisipasi dalam beberapa pameran, kemudian kembali ke Indonesia. Dari tahun 1955-1961 dia menjabat sebagai ketua Yinhua Meishu Xiehui (Masyarakat Seniman Cina di Indonesia). Dari tahun 1961 sampai 1966 ia menjabat sebagai pelukis istana di istana kepresidenan Sukarno. Pada tahun 1964, Lee Man Fong, bersama dengan Lim Wasim, menyusun 5-volume dari koleksi lukisan dan patung Istana Negara, koleksi Presiden Soekarno. Selama periode ini dia dianugerahi kewarganegaraan Indonesia. Namun, pada tahun 1967, ketika Soekarno jatuh dari kepresidenan digantikan Suharto sebagai awal dimulainya Orde Baru, Lee Man Fong pindah ke Singapura. Kedekatannya dengan Sukarno, dan diduga memiliki kecenderungan komunis, mengakibatkan keputusan artis ini untuk pindah ke Singapura pada tahun 1970. Di sana ia melukis binatang dari zodiak Tionghoa untuk dijual.",
+                "Tahun 1985 dia kembali ke Indonesia. Dan, meninggal pada 3 April 1988 di Jakarta."
+            ],
+            "artworks_id" : [
+                "4"
+            ],
+            "infoSource" : "http://archive.ivaa-online.org/pelakuseni/lee-man-fong",
+            "imgSource"  : "https://www.pinterest.com/pin/432697476670841496/"
+        },
+
+        {
+            "id" : "5",
+            "artist" :"Pablo Picasso",
+            "image" : "5.pablo-picasso.jpg",
+            "description" : [
+                "Pablo Ruiz Picasso (25 Oktober 1881 - 8 April 1973) adalah seorang seniman yang terkenal dalam aliran kubisme dan dikenal sebagai pelukis revolusioner pada abad ke-20. Dia merupakan jenius seni yang cakap membuat patung, grafis, keramik, kostum penari balet sampai tata panggung. Lahir di Malaga, Spanyol 25 Oktober 1881 dengan nama lengkap Pablo (atau El Pablito) Diego José Santiago Francisco de Paula Juan Nepomuceno Crispín Crispiniano de los Remedios Cipriano de la Santísima Trinidad Ruiz Blasco y Picasso López. Ayahnya bernama Josse Ruiz Blasco, seorang profesor seni dan ibunya bernama Maria Picasso Lopez.",
+                "Banyak seniman-seniman masyhur ditandai oleh satu macam gaya dasar. Tidaklah demikian Picasso. Dia menampilkan ruang luas dari pelbagai gaya yang mencengangkan. Kritikus-kritikus seni memberi julukan seperti \"periode biru\", \"periode merah muda\", \"periode neo-klasik\", dan sebagainya. Dia merupakan salah satu dari cikal bakal \"Kubisme,\" Dia kadang ikut serta, kadang menentang perkembangan-perkembangan baru dalam dunia lukis-melukis modern. Mungkin tak ada pelukis dalam sejarah yang sanggup melakukan karya dengan kualitas begitu tinggi dengan lewat begitu banyak gaya dan cara.",
+                "Picasso menghasilkan 20.000 karya dalam hidupnya. Yang menarik, Picasso sering berganti gaya lukisan. Ini bisa terjadi karena Picasso memiliki banyak teman. Seperti dari gaya lukisan biru dan merah jambu (karena lukisan didominasi warna biru dan merah jambu) berubah drastis ke gaya kubisme, akibat pengaruh pertemanannya dengan Georges Braque."
+            ],
+            "artworks_id" : [
+                "11"
+            ],
+            "infoSource" : "https://id.wikipedia.org/wiki/Pablo_Picasso",
+            "imgSource"  : "https://id.wikipedia.org/wiki/Pablo_Picasso"
+        },
+
+        {
+            "id" : "6",
+            "artist" :"Leonardo Da Vinci",
+            "image" : "6.leonardo.jpg",
+            "description" : [
+                "Leonardo di ser Piero da Vinci (15 April 1452 – 2 Mei 1519), lebih dikenal sebagai Leonardo da Vinci, adalah pelukis, pemahat, arsitek, penemu, ilmuwan, penulis, dan filsuf Italia pada masa Renaisans. Ia terkenal sebagai pelopor ilmu paleontologi, ichnologi, dan arsitektur, serta salah satu pelukis terbesar sepanjang sejarah. Karya terkenalnya meliputi Mona Lisa, The Last Supper, dan Vitruvian Man. Salvator Mundi, salah satu karyanya, terjual dengan harga termahal dalam sejarah seni.",
+                "Meski tanpa pendidikan formal, Leonardo diakui sebagai jenius atau \"Renaissance Man\" yang memiliki rasa penasaran dan imajinasi luar biasa. Keterlibatannya tidak hanya dalam seni, tetapi juga dalam penemuan teknologi. Ia merancang konsep mesin terbang, kendaraan perang, dan kalkulator. Beberapa ide revolusionernya, seperti parasut, helikopter, dan tank, menjadikannya figur yang dihormati dalam sejarah inovasi.",
+                "Selain karyanya yang terkenal, Leonardo da Vinci meninggalkan warisan ilmiah dengan penemuan dalam anatomi, teknik sipil, geologi, optika, dan hidrodinamika. Meskipun penemuannya tidak dipublikasikan pada masanya, pengaruhnya terasa dalam perkembangan ilmu pengetahuan selanjutnya. Leonardo da Vinci tetap menjadi inspirasi bagi generasi berikutnya, mencerminkan kejeniusannya yang merentang lintas bidang."
+            ],
+            "artworks_id" : [
+                "12", "13", "14", "15", "16"
+            ],
+            "infoSource" : "https://id.wikipedia.org/wiki/Leonardo_da_Vinci",
+            "imgSource"  : "https://id.wikipedia.org/wiki/Leonardo_da_Vinci"
+        },
+
+        {
+            "id" : "7",
+            "artist" :"Vincent Van Gogh",
+            "image" : "7.vincent-van-gogh.jpg",
+            "description" : [
+                "Vincent van Gogh, pelukis pascaimpresionis Belanda, menciptakan lebih dari 2.100 karya seni selama kurang lebih satu dasawarsa, termasuk sekitar 860 lukisan minyak yang dominan dalam warna tebal, dramatis, dan goresan kuas yang impulsif. Ia mulai melukis pada tahun 1881 setelah mengalami depresi dan perjalanan hidup yang berliku, mendapatkan dukungan dari adiknya, Theo, melalui surat-menyurat.",
+                "Pindah ke Paris pada tahun 1886, Van Gogh bertemu dengan pergerakan avant-garde, mengembangkan pendekatan baru terhadap lukisan alam benda dan bentang alam. Pada tahun 1888, di Arles, Prancis Selatan, ia menciptakan gaya baru dengan lukisan-lukisan cerah, menggambarkan pohon zaitun, ladang gandum, dan bunga matahari. Namun, ia juga mengalami psikosis, konflik dengan Gauguin, dan bahkan memotong kupingnya sendiri.",
+                "Masuk rumah sakit jiwa di Saint-Rémy pada tahun 1889, Van Gogh terus melukis dan pada tahun 1890 pindah ke Auberge Ravoux di Auvers-sur-Oise. Depresinya tak reda, dan pada tanggal 27 Juli 1890, ia menembak dirinya sendiri, meninggal dua hari kemudian. Meskipun tak dikenal saat hidup, setelah kematiannya, Van Gogh dianggap sebagai jenius yang disalahpahami, dan karya-karyanya menjadi inspirasi bagi seniman ekspresionis dan Fauvis pada abad ke-20."
+            ],
+            "artworks_id" : [
+                "17", "18", "19", "20", "21"
+            ],
+            "infoSource" : "https://id.wikipedia.org/wiki/Vincent_van_Gogh",
+            "imgSource"  : "https://id.wikipedia.org/wiki/Vincent_van_Gogh"
+        }
+
+    ],
+
+    "artwork" : 
+    [
+        {
+        "id" : "1",
+        "artist": "Raden Saleh",
+        "artist_id" : "1",
+        "title" : "Penangkapan Pangeran Diponegoro",
+        "description" : [
+            "Pangeran Diponegoro merupakan pahlawan nasional yang lahir pada 11 November 1785 dan merupakan putra dari pasangan suami istri Sri Sultan Hamengku Buwono III dan R. A. Mangkarawati. Pangeran Diponegoro memimpin Perang Jawa selama 5 tahun melawan Belanda dan perang tersebut berlangsung dari tahun 1825 hingga 1830 serta menelan banyak korban yaitu 8.000 korban Belanda dan 7.000 pribumi. Tetapi pada tanggal 28 Maret 1830 saat Pangeran Diponegoro diundang oleh Letnan Hendrik Merkus de Kock ke wisma keresidenan di Magelang, ia ditangkap saat menandatanggani perjanjian perdamaian antara pihak Belanda dan rakyat Indonesia." ,
+            "Untuk mengenang jasa perjuangan Pangeran Diponegoro dan pasukannya, Raden Saleh Syarif Bustaman atau biasa dipanggil Raden Saleh terinspirasi untuk membuat lukisan Penangkapan Pangeran Diponegoro. Ia merupakan seorang pelukis senior masa Hindia Belanda. Raden Saleh juga merupakan orang dibalik lukisan Stasiun Pos Jawa dan Perburuan Rusa. Kemampuan melukisnya yang sangat luar biasa membuat karyanya tersimpan di Smithsonian Art Museum di Amerika Serikat dengan judul karya “Forest and Native House”. Lukisan Penangkapan Diponegoro juga mampu membawa nama Indonesia sampai ke Eropa yaitu Rijk Museum di Belanda dan Louvre Museum di Prancis.",
+            "Lukisan yang diberi judul “Penangkapan Diponegoro” merupakan cuplikan kejadian nyata saat Pangeran Diponegoro ditangkap di Magelang oleh Belanda. Pada lukisan tersebut Pangeran Diponegoro berdiri di depan de Kock dalam pose menantang, pada tingkat yang sama dan saling berhadapan sebagai manifestasi dari fakta bahwa orang Jawa sejajar dengan orang Belanda. Dan lukisan ini juga menggambarkan nasionalisme rakyat Indonesia dan perjuangan Pangeran Diponegoro hingga akhir."  
+        ],
+        "image" : "1.penangkapan-pangeran-diponegoro.jpg",
+        "source" : "https://www.goodnewsfromindonesia.id/2022/11/07/5-lukisan-terkenal-dunia-yang-dilukis-oleh-pelukis-indonesia"
+        },
+
+        {
+            "id" : "2",
+            "artist": "Raden Saleh",
+            "artist_id" : "1",
+            "title" : "Berburu Rusa",
+            "description" : [
+                "Lukisan karya Raden Saleh setelah lukisan Penangkapan Diponegoro ini juga mampu menyihir mata dunia. Lukisan yang diberi judul “Perburuan Rusa” ini atau “The Deer Hunt” merupakan salah satu karya Raden Saleh yang menggambarkan perjuangan untuk bertahan hidup. Lukisan asli seniman Indonesia ini terkenal di mancanegara dan terjual seharga 1,8 miliar dolar di Singapura pada tahun 1996.",
+                "Raden Saleh memang dikenal sebagai pelukis dengan karyanya yang penuh perjuangan. Selain “The Deer Hunt” terdapat juga karyanya yaitu “The Lion Hunt”, “ The Bull Hunt” dan “Fighting The Lion”."
+            ],
+            "image" : "2.berburu-rusa.jpg",
+            "source" : "https://www.goodnewsfromindonesia.id/2022/11/07/5-lukisan-terkenal-dunia-yang-dilukis-oleh-pelukis-indonesia"
+        },
+
+        {
+            "id" : "3",
+            "artist": "Affandi",
+            "artist_id" : "2",
+            "title" : "Badai Pasti Berlalu",
+            "description" : [
+                "Lukisan karya Affandi yang berjudul “Badai Pasti Berlalu” menceritakan tentang perjuangan manusia yang mengarungi samudera luas untuk mencapai suatu tempat tujuan. Layaknya sifat alamiah manusia yang pantang menyerah untuk mendapatkan apa yang ingin dia miliki, lukisan ini sangat menggambarkan nuansa perjuangan manusia. Namun, sebagaimana manusia yang hanya bisa mengusahakan tetapi hanya Tuhan lah yang menentukan takdir.",
+                "Di tengah perjuangan manusia untuk mencapai tujuan mereka, hadirlah ombak badai yang kecil hingga besar yang menggoyahkan semangat mereka. Namun, sejatinya jika manusia ikhlas dengan apapun yang akan terjadi semuanya akan membawa kita ke tujuan terbaik kita."
+            ],
+            "image" : "3.badai-pasti-berlalu.jpg",
+            "source" : "https://www.goodnewsfromindonesia.id/2022/11/07/5-lukisan-terkenal-dunia-yang-dilukis-oleh-pelukis-indonesia"
+        },
+
+        {
+            "id" : "4",
+            "artist": "Lee Man Fong",
+            "artist_id" : "4",
+            "title" : "Balinese Procession",
+            "description" : [
+                "Lukisan yang berjudul “Balinese Procession” ini merupakan lukisan karya Lee Man Fong, seorang pelukis asal Cina yang lama menetap di Indonesia. Ia juga merupakan pelukis yang sering melukis tentang binatang sekaligus pelukis Istana Kepresidenan di era Ir. Soekarno.",
+                "Lukisan-lukisan karya Lee Man Fong banyak dijadikan sebagai lukisan koleksi Istana Negara. Lukisan “Balinese Procession” mampu menyihir mata dunia dan terjual seharga Rp 27,28 miliar di balai lelang Sotheby’s Hong Kong pada April 2017. Lukisan tersebut merupakan pengalamannya saat ia bermukim di Bali dalam waktu yang cukup lama."
+            ],
+            "image" : "4.balinese-procession.jpg",
+            "source" : "https://www.goodnewsfromindonesia.id/2022/11/07/5-lukisan-terkenal-dunia-yang-dilukis-oleh-pelukis-indonesia"
+        },
+
+        {
+            "id" : "5",
+            "artist": "Affandi",
+            "artist_id" : "2",
+            "title" : "Potret Diri dan Topeng-Topeng Kehidupan",
+            "description" : [
+                "Affandi terkenal karena karya figuratifnya, terutama pada tahun 1960-an. Ia senang bermain dengan tema pertunjukan wayang topeng dan peran stereotip dari karakter bertopeng. Presentasi subjek topeng dapat meperlihatkan kepribadian tertentu dengan disposisi yang apik dari potret dirinya sendiri. Penekanan estetikanya melalui sapuan cat yang dinamis dan khas (menumpahkan cat langsung dari tube) diiringi dengan pilihan palet warna yang kelam semakin menjadi identitasnya.",
+                "Baginya potret diri terkadang menjadi perwakilan dari manusia. Ia menggunakan potretnya karena ingin melukis walaupun tidak memiliki subjek sebagai referensi. Maka, potret dirinya sendirilah yang di lukis. Topeng-topeng kehidupan bisa menjadi representasi ide spiritualnya sendiri yang merasa bahwa mendapatkan godaan dan bisikan dari setan. Kelemahannya sebagai manusia yang tidak kuasa melawan godaan dituangkan dalam lukisan ini.",
+                "Meskipun bisa jadi kita memproduksi makna lain seperti mungkin topeng-topeng tersebut adalah kegetiran di masa tenarnya. Orang-orang “bertopeng” kian menghampiri hanya untuk memanfaatkan ketenarannya saja. Muak akan hal itu ia tidak mengutarakannya secara langsung, tetapi membicarakannya melalui lukisannya."
+            ],
+            "image" : "5.potret-diri-dan-topeng.jpg",
+            "source" : "https://serupa.id/affandi/"
+        },
+
+        {
+            "id" : "6",
+            "artist": "Affandi",
+            "artist_id" : "2",
+            "title" : "Potret Diri dengan Semangka",
+            "description" : [
+                ""
+            ],
+            "image" : "6.potret-diri-dan-semangka-karya-afandi.jpg",
+            "source" : "https://tumpi.id/pelukis-terkenal-indonesia"
+
+        },
+
+        {
+            "id" : "7",
+            "artist": "Hendra Gunawan",
+            "artist_id" : "3",
+            "title" : "Kerokan (1947-1980)",
+            "description" : [
+                "Di dalam sentuhan ajaib kuas Hendra Gunawan, lukisan \"Kerokan\" menjadi sebuah kisah visual yang menawan. Di tengah warna-warna yang berdansa, lukisan ini memaparkan momen yang penuh keintiman di dalam proses kerokan. Saya merasakan sentuhan lembut dan hangat, seolah-olah kehidupan mekar di setiap goresan kuasnya.",
+                "Warna cerah menciptakan atmosfer riang, namun pada saat yang sama, ada nuansa ketenangan yang terpancar dari lukisan ini. Melalui detail-detail halusnya, Hendra Gunawan mungkin berhasil menyampaikan tidak hanya proses fisik kerokan, tetapi juga keajaiban penyembuhan dan kebersamaan di baliknya. Itu adalah lukisan yang mengajak untuk meresapi keindahan dalam pengobatan tradisional, dan merayakan kehidupan yang tersembunyi di dalamnya."
+            ],
+            "image" : "7.Kerokan-1947-1980.jpg",
+            "source" : "https://tumpi.id/pelukis-terkenal-indonesia"
+
+        },
+
+        {
+            "id" : "8",
+            "artist": "Affandi",
+            "artist_id" : "2",
+            "title" : "Ibuku",
+            "description" : [
+                "Lukisan berjudul “Ibuku” belum menggunakan ciri khas Affandi yang membuatnya terkenal. Namun lukisan ini menjadi catatan yang penting, bahwa meskipun Affandi mengabaikan teknik pada karya ekspresionisnya, ia dapat melakukan teknik lukis realistik (naturalis tepatnya). Sosok ibunya sendiri yang sudah tua digambarkan mengenakan pakaian sehari-harinya. Namun ibunya berpose anggun seperti pada lukisan-lukisan era renaissance – romantisme. Tangannya ditaruh di pundaknya, menunjukkan bahwa Affandi mengerti mengenai pose potret yang dianggap indah untuk menunjukkan sosok potret perempuan berdasarkan teknik lukis Barat.",
+                "Sapuan kuasnya sudah tampak sangat berani dan menunjukkan bahwa ia sudah terbiasa untuk melukis lukisan yang tampak natural dan mirip aslinya. Ekspresi wajahnya menimbulkan enigma yang selalu mempertanyakan perasaan apa yang sedang dirasakan oleh sang Ibu. Sedih? Marah? atau memang raut wajahnya saja yang sudah menggambarkan manis-pahitnya kehidupan yang telah dijalankan."
+            ],
+            "image" : "8.ibuku.jpg",
+            "source" : "https://serupa.id/affandi/"
+        },
+
+        {
+            "id" : "9",
+            "artist": "Affandi",
+            "artist_id" : "2",
+            "title" : "Priest Reading Lontar",
+            "description" : [
+                "Di dalam keheningan tempat suci, cahaya lilin yang berkelip-kelip menari di atas halaman lontar kuno yang dipegang erat oleh imam yang penuh kesolehan. Udara dipenuhi dengan aura kekudusan saat ia meresapi sapuan halus karya Affandi. Warna-warna yang hidup dan ekspresi yang mendalam seolah menyatu dengan kata-kata sakral, menciptakan harmoni antara spiritualitas dan seni.",
+                "Ketika sang imam tenggelam dalam halaman-halaman lontar, ia merasakan pergeseran halus dalam jiwanya. Sapuan kuas Affandi menceritakan kisah-kisah gairah, perjuangan, dan kelepasan—naratif yang beresonansi dengan perjalanan keimanan sang imam. Warna-warna di atas kanvas lontar menjadi sebuah nyanyian visual, memantulkan hubungan ilahi antara dunia duniawi dan surgawi.",
+                "Dalam momen-momen hening itu, sang imam tidak hanya membaca sebuah lontar, tetapi meresapi pesan visual tentang semangat manusia. Yang sakral dan artistik bertemu, memungkinkannya untuk menjelajahi kedalaman keyakinan agamanya dan ekspresi mendalam yang tertangkap dalam sapuan tangan Affandi. Itu adalah perjalanan spiritual yang dipandu oleh sapuan kuas dan kebijaksanaan yang terjaga di halaman-halaman lontar—sebuah perpaduan harmonis antara iman dan seni yang tinggal dalam ruang suci tersebut."
+            ],
+            "image" : "9.priest-reading-lontar.jpg",
+            "source" : "https://serupa.id/affandi/"
+        },
+
+        {
+            "id" : "10",
+            "artist": "Affandi",
+            "artist_id" : "2",
+            "title" : "Saya dibawah lampu",
+            "description" : [
+                "Di bawah sinar lampu yang menyala, kuakui pesona lukisan \"Saya di Bawah Lampu\" karya Affandi. Dalam kehangatan cahaya, melihatnya seperti memasuki dunia di mana warna-warna bersatu dalam tarian magis. Saya merasa seolah berada di bawah sorotan cahaya, menjadi bagian dari kisah yang dipaparkan Affandi di atas kanvas.",
+                "Warna-warna yang berani, goyangan garis yang penuh semangat—semuanya menciptakan suasana hidup di dalam lukisan itu. Merah yang membara dan biru yang mendalam menggambarkan emosi yang terasa nyata. Seakan-akan, saya bisa merasakan getaran kehidupan yang dipancarkan oleh setiap sentuhan kuas Affandi.",
+                "Lukisan ini tidak hanya menggambarkan adegan visual, tetapi menyiratkan semangat kehidupan yang mengalir di bawah sorotan lampu. Saya dapat membayangkan diri saya berdiri di sana, terhanyut dalam keindahan yang diciptakan oleh Affandi. Dalam karya ini, seni menjadi jendela ke dunia yang penuh warna dan gerak, mengundang saya untuk meresapi keajaiban yang tersembunyi di balik setiap goresan kuasnya."
+            ],
+            "image" : "10.saya-dibawah-lampu.jpg",
+            "source" : "https://serupa.id/affandi/"
+            
+        },
+
+        {
+            "id" : "11",
+            "artist": "Pablo Picasso",
+            "artist_id" : "5",
+            "title" : "Guernica (1937)",
+            "description" : [
+                "Guernica (bahasa Spanyol: [geɾ'nika], bahasa Basque: [gernika]) adalah lukisan minyak besar di atas kanvas karya seniman Spanyol Pablo Picasso yang selesai dibuat pada Juni 1937.[1][2] Lukisan ini sekarang berada di Museo Reina Sofía di Madrid. Lukisan dengan warna abu-abu, hitam, dan putih ini dibuat di rumah Picasso di Paris. Lukisan ini dianggap oleh banyak kritikus seni sebagai salah satu lukisan anti-perang yang paling mengharukan dan paling kuat dalam sejarah,[3] dan merupakan salah satu karya Picasso yang paling terkenal.",
+                "Dengan tinggi 3,49 meter dan lebar 7,76 meter, lukisan itu menunjukkan penderitaan manusia dan hewan yang direnggut oleh kekerasan dan kekacauan. Yang menonjol dalam komposisi adalah kuda yang ditanduk, kerbau, wanita berteriak, tubuh yang dipotong-potong, dan api.",
+                "Lukisan itu dibuat sebagai tanggapan atas pengeboman Guernica, sebuah kota di Negara Basque di Spanyol utara, oleh Jerman Nazi dan Italia Fasis atas permintaan Nasionalis Spanyol. Setelah selesai, Guernica dipamerkan di pameran Spanyol dalam Exposition Internationale des Arts et Techniques dans la Vie Moderne di Paris pada tahun 1937 dan kemudian di tempat-tempat lain di seluruh dunia. Pameran tur digunakan untuk mengumpulkan dana untuk bantuan perang Spanyol.[4] Lukisan itu menjadi terkenal dan diakui secara luas, dan itu membantu menarik perhatian dunia pada Perang Saudara Spanyol."
+
+            ],
+            "image" : "11.guernica.png",
+            "source" : "https://id.wikipedia.org/wiki/Guernica#:~:text=Guernica%20(bahasa%20Spanyol%3A%20%5Bɡeɾˈnika,Museo%20Reina%20Sofía%20di%20Madrid."   
+        },
+
+        {
+            "id" : "12",
+            "artist": "Leonardo Da Vinci",
+            "artist_id" : "6",
+            "title" : "Mona Lisa",
+            "description" : [
+                "Mona Lisa (bahasa Italia: Monna Lisa ['mɔnna 'li:za] atau La Gioconda [la dʒo'konda], Prancis: La Joconde [la ʒɔkɔ̃d]), Monalisa adalah lukisan minyak di atas kayu popular yang dibuat oleh Leonardo da Vinci pada abad ke-16. Lukisan ini sering dianggap sebagai salah satu lukisan paling terkenal di dunia dan hanya sedikit karya seni lain yang menjadi pusat perhatian, studi, mitologi, dan parodi. Lukisan ini dimiliki oleh pemerintah Prancis dan dipamerkan di Musée du Louvre di Paris.[2]",
+                "Nama atau judul lukisan Mona Lisa berasal dari biografi Giorgio Vasari tentang Leonardo da Vinci, yang terbit 31 tahun setelah ia meninggal dunia. Di dalam buku ini disebutkan bahwa wanita dalam lukisan ini adalah Lisa Gherardini.[4][5]",
+                "Mona dalam bahasa Italia adalah singkatan untuk ma donna yang artinya adalah \"nyonyaku\". Sehingga judul lukisan artinya adalah Nyonya Lisa. Dalam bahasa Italia biasanya judul lukisan ditulis sebagai Monna Lisa.",
+                "Lalu La Gioconda adalah bentuk feminin dari Giocondo. Kata giocondo dalam bahasa Italia artinya adalah \"riang\" dan la gioconda artinya adalah \"wanita riang\". Berkat senyum Mona Lisa yang misterius ini, frasa ini memiliki makna ganda. Begitu pula terjemahannya dalam bahasa Prancis; La Joconde.",
+                "Nama Mona Lisa dan La Gioconda atau La Joconde menjadi judul lukisan ini yang diterima secara luas semenjak abad ke-19. Sebelumnya lukisan ini disebut dengan berbagai nama seperti \"Wanita dari Firenze\" atau \"Seorang wanita bangsawan dengan kerudung tipis\"."
+            ],
+            "image" : "12.mona-lisa.jpg",
+            "source" : "https://id.wikipedia.org/wiki/Mona_Lisa"   
+        },
+
+        {
+            "id" : "13",
+            "artist": "Leonardo Da Vinci",
+            "artist_id" : "6",
+            "title" : "Lady with an Ermine (1483-1490)",
+            "description" : [
+                "\"The Lady with an Ermine\" adalah salah satu lukisan paling terkenal yang dibuat oleh Leonardo da Vinci antara tahun 1489-1491. Ini adalah lukisan minyak di atas panel kayu walnut yang menampilkan seorang wanita muda yang memegang seekor musang. Wanita dalam lukisan ini diyakini sebagai Cecilia Gallerani, kekasih remaja Ludovico Sforza, regent dan kemudian Duke of Milan.",
+                "Minat Da Vinci dalam realisme anatomi terlihat dalam lukisan ini karena ia menangkap setiap detail baik wanita maupun musangnya. Banyak yang menganggap mahakarya ini sebagai tampilan yang sangat baik dari keterampilan Da Vinci dalam potret dan penggunaan simbolisme. Musang, yang merupakan simbol yang terkait dengan Duke Sforza sendiri karena ia juga disebut sebagai \"the White Ermine,\" mewakili hubungannya dengan Cecilia.",
+                "\"The Lady with an Ermine\" menonjol dari potret Renaisans lainnya karena menyimpang dari pose tradisional yang biasanya ditemukan selama periode tersebut. Sebaliknya, Da Vinci memilih untuk menangkap Cecilia saat dia berinteraksi dengan musang peliharaannya. Lukisan ini menunjukkan dia dengan penuh kasih memeluk musangnya sambil mengamatinya dengan saksama. Pose yang tidak konvensional ini memperlihatkan keahlian seni dan penguasaan Da Vinci dalam melukis baik subjek manusia maupun hewan.",
+                "\"The Lady with an Ermine\" oleh Leonardo da Vinci tetap menjadi salah satu mahakarya abadi yang dikenal karena keunikannya yang dicirikan oleh eksperimen teknik, penggunaan perspektif, dan banyak lagi, hal-hal yang khas hanya pada dirinya selama masanya atau bahkan sepanjang sejarah."
+            ],
+            "image" : "13.lady-with-an-ermine.jpg",
+            "source" : "https://www.artchive.com/artwork/lady-with-an-ermine-leonardo-da-vinci-1483-1490/"   
+        },
+
+        {
+            "id" : "14",
+            "artist": "Leonardo Da Vinci",
+            "artist_id" : "6",
+            "title" : "Study of the Porportions of the Head and Body (c. 1490)",
+            "description" : [
+                "Leonardo da Vinci, salah satu seniman paling terkenal dalam sejarah, bukan hanya seorang pelukis ulung tetapi juga seorang ahli anatomi. Ia terpesona dengan proporsi dan struktur tubuh manusia, dan mempelajarinya secara teliti sepanjang kariernya. Salah satu karyanya yang paling terkenal adalah \"Vitruvian Man,\" digambar pada tahun 1492, yang berisi proporsi idealis tubuh manusia yang dimodifikasi berdasarkan karya-karya Vitruvius.",
+                "Selain gambar \"Vitruvian Man,\" da Vinci juga mempelajari proporsi kepala manusia untuk menciptakan gambar dan lukisan realistis. Ia merumuskan aturan umum untuk posisi dan ukuran fitur wajah dengan pengukuran yang akurat untuk memberikan komposisi yang estetis. Salah satu fitur yang ia ukur dengan seksama adalah mata karena dianggap penting dalam menyampaikan emosi.",
+                "Selain mempelajari proporsi, da Vinci juga menggunakan teknik perspektif udara dalam lukisannya untuk menciptakan ilusi jarak. Teknik ini sangat efektif ketika menciptakan lanskap atau pemandangan latar belakang di belakang subjek. Pendekatan revolusioner da Vinci terhadap seni dengan menerapkan prinsip-prinsip ilmiah secara fundamental mengubah arah seni Eropa selama Renaisans.",
+                "Secara keseluruhan, perhatian Leonardo da Vinci terhadap detail dan penelitian anatomi memungkinkannya menciptakan beberapa karya seni yang paling teknis canggih pada masanya. Ia tetap menjadi inspirasi bagi para seniman hari ini yang mencari akurasi dan pemahaman yang lebih besar dalam karyanya terkait anatomi dan proporsi."
+            ],
+            "image" : "14.study-of-the-porportions-of-the-head-and-body.jpg",
+            "source" : "https://www.artchive.com/artwork/study-of-the-porportions-of-the-head-and-body-leonardo-da-vinci-c-1490/"   
+        },
+
+        {
+            "id" : "15",
+            "artist": "Leonardo Da Vinci",
+            "artist_id" : "6",
+            "title" : "Self-Portrait (c. 1512)",
+            "description" : [
+                "Potret diri Leonardo da Vinci, dibuat pada tahun 1512 dengan menggunakan kapur merah, dianggap sebagai satu-satunya potret diri yang masih ada yang diselesaikan oleh sang seniman. Lukisan ini menggambarkan seorang pria tua dengan rambut panjang dan janggut, dengan ukuran 33,3 x 21,3 cm. Interpretasi ini tentang Leonardo sebagai seorang polimat atau \"Renaissance Man\" selama tahun-tahun terakhir hidupnya umumnya diterima.",
+                "Lukisan ini memperlihatkan keahlian Leonardo dalam chiaroscuro, penggunaan cahaya dan bayangan untuk menciptakan kedalaman dan dimensi dalam karya dua dimensi. Leonardo menggunakan sorotan pada bagian-bagian wajahnya seperti di bawah matanya untuk menciptakan efek ini sambil menyoroti beberapa kerutan di sekitar mulut dan dagunya dengan garis-garis berpola.",
+                "Meskipun diinterpretasikan sebagai potret diri, beberapa sejarawan tidak setuju tentang identitas sebenarnya dari orang yang digambarkan dalam lukisan tersebut. Salah satu teori menyarankan bahwa itu bisa menjadi potret yang dilukis oleh seniman lain yang dikenal sebagai Bernardino Luini. Terlepas dari identitas sejati, potret ini mencerminkan apa yang pada umumnya dianggap pada saat itu - kegagahan dan kebijaksanaan yang terpancar dari seorang makhluk intelektual - yang mencerminkan apa yang selalu dipikirkan tentang Leonardo da Vinci sendiri yang terkenal tidak hanya karena karyanya tetapi juga inovasi ilmiah yang dilakukannya sepanjang sejarah."
+            ],
+            "image" : "15.Self-Portrait-Leonardo-da-Vinci-c.-1512.jpg",
+            "source" : "https://www.artchive.com/artwork/self-portrait-leonardo-da-vinci-c-1512/"   
+        },
+
+        {
+            "id" : "16",
+            "artist": "Leonardo Da Vinci",
+            "artist_id" : "6",
+            "title" : "Study of Grotesque Heads (c. 1490)",
+            "description" : [
+                "Leonardo da Vinci adalah seorang seniman terkemuka, penemu, dan ilmuwan dari era Renaisans Tinggi. Di antara karyanya adalah beberapa gambar kepala grotesk yang menangkap fitur tidak biasa dari karakter tua, jelek, senil, dan konyol. Salah satu karyanya adalah \"Five Character Studies,\" yang berasal dari sekitar tahun 1493 dan dianggap sebagai salah satu yang paling memikat.",
+                "Yang membedakan gambar-gambar ini dari yang lain adalah fokus mereka pada struktur kerangka sebagai dasar untuk menangkap esensi wajah grotesk. Ketergantungan pada pengetahuan anatomi ini kemungkinan mencerminkan minat yang beragam dari Leonardo dalam seni, ilmu pengetahuan, dan rekayasa. Karya-karya lain dalam gaya ini oleh Leonardo termasuk \"A Bald Fat Man with a Broken Nose\" dan \"Grotesque Head of an old Woman.\"",
+                "Studi kepala grotesk menunjukkan kemampuan Leonardo untuk melampaui standar kecantikan tradisional untuk menangkap ekspresi manusia melalui bentuk dan proporsi. Mereka mewakili contoh dari koleksi studi anatomi manusia yang luas yang difokuskan pada tipe karakter yang biasanya tidak dianggap sebagai subjek yang menyenangkan secara estetika untuk seni. Meskipun sifatnya yang tidak biasa, gambar-gambar ini memperlihatkan kemampuan Leonardo untuk menggambar dengan mahir segala subjek yang ia tekuni sepanjang kariernya yang gemilang."
+            ],
+            "image" : "16.Study-of-Grotesque-Heads-Leonardo-da-Vinci-c.-1490-2.jpg",
+            "source" : "https://www.artchive.com/artwork/study-of-grotesque-heads-leonardo-da-vinci-c-1490/"   
+        },
+
+        {
+            "id" : "17",
+            "artist": "Vincent Van Gogh",
+            "artist_id" : "7",
+            "title" : "Wheat Filed (1889)",
+            "description" : [
+                "Vincent Van Gogh melukis beberapa versi ladang gandum dengan pohon cypress pada tahun 1889 ketika ia berada di rumah sakit jiwa Saint-Paul de Mausole. Lukisan ini merupakan bagian dari serinya yang menggambarkan ladang gandum dan dipamerkan di rumah sakit jiwa. Bagi Van Gogh, gandum melambangkan kehidupan manusia dan kerja keras manual, sementara pohon cypress melambangkan stabilitas dalam lanskap liar.",
+                "Selain A Wheatfield, with Cypresses, lukisan lain yang mencolok dari masa tinggalnya di rumah sakit adalah Rain dan Green Field. Meskipun sering dianggap sebagai karyanya terbaik dari periode ini, Wheatfield with Crows sebenarnya dilukis sebentar sebelum kematiannya. Oleh karena itu, lukisan tersebut memiliki makna tambahan sebagai firasat yang menyeramkan terkait kematiannya.",
+                "Van Gogh terkenal sebagai seniman yang produktif, menciptakan sekitar 900 lukisan dan 1.100 gambar dalam kurun waktu sekitar satu dekade. Meskipun tidak mencapai kesuksesan komersial selama hidupnya karena perjuangan kesehatan mentalnya, karyanya kini sangat dihargai sebagai kontribusi yang signifikan dalam seni modern melalui sapuan kuas yang ekspresif, warna-warna yang hidup, dan komposisi yang mencolok."
+            ],
+            "image" : "17.Wheat-Field-1889-by-Vincent-Van-Gogh.jpg",
+            "source" : "https://www.artchive.com/artwork/wheat-field-1889-by-vincent-van-gogh/"   
+        },
+
+        {
+            "id" : "18",
+            "artist": "Vincent Van Gogh",
+            "artist_id" : "7",
+            "title" : "Road with Cypress and Star (1890)",
+            "description" : [
+                "Lukisan \"Road with Cypress and Star\" karya Vincent van Gogh diciptakan pada tahun 1890 selama masa tinggalnya di Saint-Rémy-de-Provence, Prancis. Juga dikenal sebagai \"Country Road in Provence by Night,\" ini adalah lukisan terakhir yang dibuatnya sebelum meninggalkan rumah sakit jiwa tempat ia menerima perawatan. Lukisan ini memuat simbol dan gambar yang penting bagi Van Gogh pada saat itu.",
+                "Pohon Cypresses, yang menjadi motif berulang dalam seni Van Gogh, menjadi salah satu daya tariknya. Dalam lukisan ini, beberapa pohon Cypress digambarkan di sepanjang jalan berliku di bawah langit malam yang berbintang. Sapuan kuas pendek dan berputar serta warna yang sangat kontras digunakan untuk menciptakan efek gaib.",
+                "Astronom telah menganalisis objek langit yang terdapat dalam lukisan ini, mengusulkan bahwa Van Gogh dengan akurat menggambarkan beberapa rasi bintang yang terlihat dari Selatan Prancis pada waktu itu. Selain itu, lukisan ini memiliki banyak motif yang mirip dengan \"The Starry Night,\" salah satu karya terkenal Van Gogh.",
+                "\"Road with Cypress and Star\" dapat dianggap sebagai representasi dari cinta Van Gogh terhadap alam, sekaligus memberikan wawasan tentang emosinya selama masa penahanannya di Saint-Rémy-de-Provence. Kini, lukisan ini menjadi bagian dari koleksi Van Gogh di Museum Kröller-Müller di Belanda dan dapat dihadirkan sebagai reproduksi berkualitas museum bagi mereka yang menghargai keindahan dan maknanya."
+            ],
+            "image" : "18.Road-with-Cypress-and-Star-VAN-GOGH-Vincent-1890-2.jpg",
+            "source" : "https://www.artchive.com/artwork/road-with-cypress-and-star-vincent-van-gogh-1890/"   
+        },
+
+        {
+            "id" : "19",
+            "artist": "Vincent Van Gogh",
+            "artist_id" : "7",
+            "title" : "Mountains At Saint-remy (1889)",
+            "description" : [
+                "Vincent Van Gogh melukis \"Mountains at Saint-Remy with Dark Cottage\" saat tinggal di rumah sakit jiwa di Saint-Rémy-de-Provence dari 1889-1890. Pemandangan ini memperlihatkan medan pegunungan dan ladang pastoral yang menarik perhatiannya selama berada di sana.",
+                "Penggunaan sapuan kuas dinamis dan tekstur permukaan yang kaya oleh Van Gogh berhasil menangkap keindahan alam di daerah tersebut, sekaligus mencerminkan keyakinannya yang bersifat panteistik. Lukisan ini menampilkan warna biru dan hijau yang hidup, kontras dengan nuansa gelap cokelat dan hitam. Rumah kecil di foreground menambahkan kedalaman pada komposisi, membimbing mata menuju pegunungan di kejauhan.",
+                "Sebagai bagian dari gerakan Post-Impressionist, Van Gogh merangkul suasana, ekspresi, simbol, dan perasaan dalam karyanya. \"Mountains at Saint-Rémy with Dark Cottage\" adalah contoh utama gaya ini, mengilustrasikan tidak hanya lanskap fisik tetapi juga menyampaikan koneksi emosional dengan alam.",
+                "Selain lukisan ini, Van Gogh menciptakan lebih dari 100 karya lain selama tinggal di Saint-Rémy-de-Provence. Ia menemukan inspirasi baik dari alam maupun orang-orang di sekitarnya sambil berjuang dengan penyakit mental. Pemandangan ini terus dihargai karena keindahan mereka dan kemampuan untuk menyampaikan emosi melalui seni.s"
+            ],
+            "image" : "19.Mountains-At-Saint-remy-1889-by-Vincent-Van-Gogh.jpg",
+            "source" : "https://www.artchive.com/artwork/mountains-at-saint-remy-1889-by-vincent-van-gogh/"   
+        },
+
+        {
+            "id" : "20",
+            "artist": "Vincent Van Gogh",
+            "artist_id" : "7",
+            "title" : "The Starry Night (1889)",
+            "description" : [
+                "Vincent van Gogh melukis \"The Starry Night\" pada tahun 1889, menggambarkan langit malam di atas desa perbukitan kecil. Lukisan ini didominasi oleh langit malam dengan pusaran biru kromatik, dengan bulan sabit kuning bercahaya dan bintang-bintang yang dihasilkan sebagai orbin-terpancar. Van Gogh menciptakan lukisan ini berdasarkan pengamatan langsung, imajinasinya, kenangan, dan emosinya.",
+                "Bentuk pusaran di langit sesuai dengan observasi astronomi yang diterbitkan tentang debu dan gas yang dikenal sebagai nebula. Untuk menggambarkan langit malam dalam \"The Starry Night,\" Van Gogh menggunakan warna biru dan kuning yang intens, dengan hijau-hijau terang yang tersebar di sekitarnya. Komposisi ini menekankan materi ini melalui garis-garis aliran dan bulatan sapuan kuas yang tebal dan berputar-putar.",
+                "Penggunaan sapuan kuas yang tebal dan warna-warna yang mencolok oleh Van Gogh menyampaikan kedalaman emosional yang intens dalam konten lukisan ini. Beberapa pakar menginterpretasikan aspek ini sebagai indikasi spiritualitas atau introspeksi yang tercermin dalam surat-surat Van Gogh kepada saudaranya pada saat ia membuat karya ini. Lukisan ini diciptakan selama periode ketika Van Gogh tinggal di sebuah rumah sakit jiwa dengan kebebasan lebih besar dibandingkan pasien lain karena"
+            ],
+            "image" : "20.The-Starry-Night.jpg",
+            "source" : "https://www.artchive.com/artwork/the-starry-night-vincent-van-gogh-1889/"   
+        },
+
+        {
+            "id" : "21",
+            "artist": "Vincent Van Gogh",
+            "artist_id" : "7",
+            "title" : "Still Life of Shoes (1886)",
+            "description" : [
+                "Vincent Van Gogh, seniman Belanda terkenal, melukis banyak natura benda sepatu atau sepatu selama periode Parisnya (1886-1888). Salah satu lukisan sepatu terkenal yang dibuat oleh Van Gogh pada tahun 1886 adalah \"A Pair of Shoes.\" Para sejarawan seni percaya bahwa ia menemukan sepasang sepatu yang sudah aus di pasar loak Paris dan menggunakannya sebagai prop untuk melukis.",
+                "Lukisan natura benda Van Gogh selama periode ini bersifat eksperimental dan mengubah subjek, warna, dan teknik. Ia menggunakan sapuan kuas yang berani untuk menggambarkan tekstur dan detail sepatu yang sudah lapuk. Lantai ubin kuning menjadi konteks spasial khusus untuk salah satu lukisan sepatu Van Gogh.",
+                "\"A Pair of Shoes\" telah menjadi lukisan ikonik yang melambangkan perjalanan sulit Van Gogh melalui kehidupan. Lukisan ini memiliki banyak interpretasi tentang kesulitan, ketahanan, kemiskinan, penderitaan fisik, dan kegelisahan emosional. Lukisan ini beresonansi dengan penonton yang mengidentifikasi diri dengan perasaan kesepian dan kerentanannya.",
+                "Pentingnya diberikan kepada objek yang begitu sederhana menyoroti keberadaan mereka dalam kehidupan sehari-hari sekaligus meningkatkan signifikansinya di atas kanvas. Transformasi teknis ini dengan cemerlang memungkinkan Vincent Van Gogh untuk mengangkat objek materi sederhana di sekitarnya menjadi kontrapoin yang gaib terhadap pengalaman pribadinya; memukau penonton sepanjang waktu dengan perpaduan yang khusyuk antara kerapuhan dan keindahan yang terkandung dalam setiap karya."
+            ],
+            "image" : "21.Still-Life-of-Shoes-VAN-GOGH-Vincent-1886-2.jpg",
+            "source" : "https://www.artchive.com/artwork/still-life-of-shoes-vincent-van-gogh-1886/"   
+        }
+
+    ]
+
+
+
+}

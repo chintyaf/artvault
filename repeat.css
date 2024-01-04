@@ -1,0 +1,52 @@
+/* Width according to device
+mobile phones 500px
+tablets 800px */
+
+.row-to-col {
+    display: flex;
+    flex-direction: row;
+}   
+
+
+
+/* font adjustmen */
+/* @media screen and (max-width:550px) { 
+    .welcome-text h1 {
+        margin-top: 20px;
+        margin-bottom: 3px;
+        font-size: 31px
+    }
+
+    .welcome-text p {
+        font-size: 17px;
+        margin-top:25px;
+    }
+
+    main#welcome h1 {
+        font-size: 15px;
+    }
+
+    .featured-title h1 {
+        font-size: 19px;
+    }
+
+    main p {
+        font-size: 13px;
+    }
+
+    #extra .text h1 {
+        font-size: 27px;
+        margin-bottom: 0px!important;
+    }
+} */
+
+@media screen and (max-width:992px) {
+/*     
+
+    .welcome {
+        margin-top: 15px;
+    } */
+}
+
+
+
