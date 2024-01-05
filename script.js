@@ -97,7 +97,7 @@ fetch('data.json')
             // const excludeId = id + 1;  
             const others = artwork
                             // .filter(artwork => artwork.id != excludeId)
-                            .sort(() => Math.random() - 0.05)
+                            .sort(() => Math.random() - 0.5)
                             .slice(0, 10)
                             .map(artwork => artwork.id);
             console.log(artwork)
