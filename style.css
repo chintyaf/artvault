@@ -13,6 +13,10 @@
     /* cursor: url(images/cursor.cur), auto; */
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .container {
     margin: auto;
     max-width: 1440px;
@@ -606,7 +610,7 @@ header .content {
 }
 
 .about-text p{
-    margin: 100px 0px;
+    /* margin: 100px 0px; */
     color: #C8C8C8;
     font-size: 15px;
 }
@@ -716,6 +720,19 @@ header .content {
 
     #artworks{
         columns: 2;
+    }
+
+    #about .content {
+        max-width: 100%;
+    }
+
+    #about .content img{
+        max-width: 100%;
+    }
+
+    #about .content p{
+        /* max-width: 100%; */
+        text-align: start!important;
     }
 }
  
