@@ -24,11 +24,20 @@
             background-blend-mode: multiply;
             background-attachment: fixed;">
         <!-- Img Source = https://www.metmuseum.org/blogs/collection-insights/2018/vermeer-new-look -->
-        <div class="container content d-flex align-items-center justify-content-center">
+        <div class="container content d-flex align-items-center justify-content-center flex-column">
             <div class="text col-md-6">
                 <h1 class="fancy-text text-center fw-bold hidden-text">
                     Collection
                 </h1>
+
+            </div>
+            <div class="search-bar col-md-6">
+                <div class="form-group col-lg-12">
+                    <div class="input-group">
+                        <!-- <input type="text" class="form-control fs-5 fw-bold" id="search" name="search"></input> -->
+                        <input type="text" id="search" onkeyup="search()" placeholder="Search.." class="col-md-12 p-1 mt-3">
+                    </div>
+                </div>    
             </div>
         </div>
     </header>
@@ -40,6 +49,10 @@
 
     <footer id="footer" class="container">
     </footer>
+
+    <script type="text/javascript">
+
+    </script>
 
     <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>

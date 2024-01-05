@@ -40,6 +40,49 @@ const observer = new IntersectionObserver((entries) => {
     })
 })
 
+function search() {
+    fetch('data.json')
+    .then((response) => response.json())
+    .then((searchData) => {
+        // Declare variables
+        artwork = searchData.artwork;
+        input = document.getElementById('search').value;
+        // title = artwork.title;
+        // covertTitle = artwork.title.value.toUpperCase();
+        // filter = input.value.toUpperCase();
+        console.log(input)
+
+        const dataCollection = document.querySelector('#artworks');
+        // Clear previous content
+        dataCollection.innerHTML = '';
+
+        for(i = 0; i < artwork.length; i++){
+            if (artwork[i].title.toLowerCase().includes(input.toLowerCase())) {
+                dataCollection.innerHTML += 
+                `
+                <div class="art-box">
+                    <a href="/art.html?id=${artwork[i].id}"> 
+                    <div>
+                        <img class="mb-3" src="images/artwork/${artwork[i].image}">
+                    </div>
+                    <div class="d-flex flex-column">
+                        <h1 class="">${artwork[i].title}</h1>
+                        <a class="" href="artist.html?id=${artwork[i].artist_id}">
+                            <p>by ${artwork[i].artist}</p>
+                        </a>    
+                    </div>
+                    </a>
+                </div>
+                `;      
+            } else { 
+
+            }
+        }
+    })
+    }
+
+  
+
 const hiddenElements = document.querySelectorAll('.hidden-text');
 hiddenElements.forEach((el) => observer.observe(el));
 
